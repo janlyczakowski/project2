@@ -1,0 +1,420 @@
+{
+  "result": [
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=11",
+      "geometry": {
+        "coordinates": [
+          12.248,
+          45.6806
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "n.p.",
+        "id": "xkfzOl39M9",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=9",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=9",
+          "https://loremflickr.com/560/420/furniture,estate?random=10"
+        ],
+        "name": "Nuovi Appartamenti a Treviso",
+        "price": "495000",
+        "rooms": "3 - 4",
+        "surface": "da\u00a0165m\u00b2",
+        "uri": "card/xkfzOl39M9",
+        "url": "https://www.immobiliare.it/annunci/p-157765/?utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    },
+    {
+      "bg_img": "https://loremflickr.com/560/420/furniture,estate?random=5",
+      "geometry": {
+        "coordinates": [
+          12.3856,
+          44.2011
+        ],
+        "type": "Point"
+      },
+      "recap": {
+        "baths": "n.p.",
+        "floor": "2",
+        "id": "y8hpn1R0X0",
+        "img": "https://loremflickr.com/560/420/furniture,estate?random=3",
+        "imgs": [
+          "https://loremflickr.com/560/420/furniture,estate?random=3",
+          "https://loremflickr.com/560/420/furniture,estate?random=4"
+        ],
+        "name": "Trilocale via Caduti dell'11 Settembre, 18, Cesenatico",
+        "price": "199000",
+        "rooms": "3",
+        "surface": "60m\u00b2",
+        "uri": "card/y8hpn1R0X0",
+        "url": "https://www.immobiliare.it/annunci/87025346/?__nc__fn&utm_source=copy-link&utm_medium=share"
+      }
+    }
+  ]
+}
